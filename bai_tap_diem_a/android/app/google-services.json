@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822602561257",
+    "project_id": "bai-tap-lon-3be05",
+    "storage_bucket": "bai-tap-lon-3be05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822602561257:android:1f1466af77d1d4a9256278",
+        "android_client_info": {
+          "package_name": "com.example.bai_tap_diem_a"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkwrvEH56P2JEuiAFe9r2iUwViZY4K_wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
